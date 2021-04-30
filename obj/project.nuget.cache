@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w4RPW57/e5LHgXeLY8+EJVERpjP3sQf7eLkKyC7CXOC18k4FDBezhUjHoUy60OJSwglM1WjkGBTf1Y6wTbIRcA==",
+  "dgSpecHash": "9Q8b/pImRuIoUXtcbGMnJUoZFjV5VZHHXrMgMnXGCWBtVONruiNFwWayWwKKGiB1dlEMfQEB5rQV3DAmyx0o+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\SergioArribasSanchez\\source\\repos\\servicedepartamentosrdsmysql\\servicedepartamentosrdsmysql-main\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,8 @@
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\mysqlconnector\\1.3.7\\mysqlconnector.1.3.7.nupkg.sha512",
+    "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.5.1\\npgsql.entityframeworkcore.postgresql.5.0.5.1.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\5.0.0-beta.2\\pomelo.entityframeworkcore.mysql.5.0.0-beta.2.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.3\\swashbuckle.aspnetcore.6.1.3.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.3\\swashbuckle.aspnetcore.swagger.6.1.3.nupkg.sha512",
@@ -32,6 +34,7 @@
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
     "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []

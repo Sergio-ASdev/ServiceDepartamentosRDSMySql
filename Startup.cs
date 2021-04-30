@@ -28,6 +28,12 @@ namespace ServiceDepartamentosRDSMySql
 
         public void ConfigureServices(IServiceCollection services)
         {
+            String cadena = Configuration.GetConnectionString("postgreslive");
+            services.AddTransient<RepositoryCoches>();
+            services.AddDbContext<CochesContext>(options => options.UseNpgsql(cadena));
+
+
+            /*
             String cadenaaws = this.Configuration.GetConnectionString("awsmysqlhospital");
 
             services.AddTransient<RepositoryCoches>();
@@ -35,6 +41,7 @@ namespace ServiceDepartamentosRDSMySql
                 (options => options.UseMySql(
                     cadenaaws, ServerVersion.AutoDetect(cadenaaws)
                 ));
+            */
 
             //HABILITAMOS CORS EN EL SERVICIO
             services.AddCors(options => options.AddPolicy("AllowOrigin", c => c.AllowAnyOrigin()));
